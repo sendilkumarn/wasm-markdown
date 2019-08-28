@@ -1,0 +1,9 @@
+{
+  "generator-wasm-app": {
+    "promptValues": {
+      "appName": "wasm-markdown",
+      "appDesc": "A Markdown parser with WebAssembly",
+      "bundler": "Webpack"
+    }
+  }
+}

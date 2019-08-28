@@ -1,0 +1,20 @@
+{
+  "author": "Sendil Kumar<sendilkumarn@live.com>",
+  "name": "wasm-markdown",
+  "description": "A Markdown parser with WebAssembly",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "webpack-dev-server -d",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@wasm-tool/wasm-pack-plugin": "0.4.2",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "4.33.0",
+    "webpack-cli": "3.3.3",
+    "webpack-dev-server": "3.7.1"
+  },
+  "dependencies": {
+    "marked": "^0.6.3"
+  }
+}
