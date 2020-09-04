@@ -15,6 +15,6 @@
     "webpack-dev-server": "3.7.1"
   },
   "dependencies": {
-    "marked": "^0.6.3"
+    "marked": "^0.7.0"
   }
 }
